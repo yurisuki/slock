@@ -1,0 +1,8 @@
+slock - simple screen locker
+============================
+includes few patches (capscolor, colormessage)
+used in yuririce.
+
+```
+sudo make clean install
+```
